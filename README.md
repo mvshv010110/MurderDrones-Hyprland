@@ -42,4 +42,5 @@ Everything above is system-specific and might break your shell on other distros!
 ## 📦 So how to install it?
 ### Just clone the repository
 `git clone https://github.com/mvshv010110/MurderDrones-Hyprland.git`
+### Then go copy-paste files u want
 `cd MurderDrones-Hyprland`
