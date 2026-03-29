@@ -40,6 +40,6 @@ If you want my `zshrc`, **don’t copy the whole file**. Instead, copy only the 
 Everything above is system-specific and might break your shell on other distros!
 
 ## 📦 So how to install it?
-### 0. Clone the repository
+### Just clone the repository
 `git clone https://github.com/mvshv010110/MurderDrones-Hyprland.git`
 `cd MurderDrones-Hyprland`
