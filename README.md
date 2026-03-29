@@ -47,6 +47,6 @@ Then go copy-paste files u want
 `cd MurderDrones-Hyprland`
 
 ### And to miscs:
-**md.txt** is fastfetch logo
-**ucmd.png** is wallpaper
+**md.txt** is fastfetch logo;
+**ucmd.png** is wallpaper;
 **T3Ss4.png** is picture used in yazi 
