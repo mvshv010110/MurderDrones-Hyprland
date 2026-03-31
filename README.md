@@ -20,7 +20,7 @@ Hyprland theme inspired by the indie series **"Murder Drones"**, made by **Glitc
 ## 📦 Apps you need:
 * **[Caelestia shell](https://github.com/Caelestia-OS/caelestia-shell)** - side bar, app drawer, and dashboard panel.
 * **Yazi** - terminal file manager (available in pacman, dnf, etc.).
-* **Cmatrix** - for the "hacker" vibe.
+* **Cmatrix** - cool hacker vibe, window under fastfetch.
 * **Kitty** - recommended terminal.
 * **Vivaldi** - default browser in my config (change in `hyprland.conf`).
 
